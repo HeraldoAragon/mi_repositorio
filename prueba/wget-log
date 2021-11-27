@@ -1,0 +1,17 @@
+--2021-11-07 18:18:08--  https://www.zaragoza.es/sede/servicio/restaurante.json?fl=title,tel
+Resolviendo www.zaragoza.es (www.zaragoza.es)... 194.224.70.75
+Conectando con www.zaragoza.es (www.zaragoza.es)[194.224.70.75]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 3566 (3,5K) [application/json]
+Grabando a: «www.zaragoza.es/sede/servicio/restaurante.json@fl=title,tel.tmp»
+
+                          www.zaragoza.es/sede/servi   0%[                                                                                                                     ]       0  --.-KB/s               www.zaragoza.es/sede/servicio/restaurante.json@fl=ti 100%[====================================================================================================================>]   3,48K  --.-KB/s    en 0,001s  
+
+La cabecera de fecha de última modificación es inválida -- marca de tiempo descartada.
+2021-11-07 18:18:08 (5,87 MB/s) - «www.zaragoza.es/sede/servicio/restaurante.json@fl=title,tel.tmp» guardado [3566/3566]
+
+Eliminando www.zaragoza.es/sede/servicio/restaurante.json@fl=title,tel.tmp puesto que debería ser rechazado.
+
+ACABADO --2021-11-07 18:18:08--
+Tiempo total de reloj: 0,4s
+Descargados: 1 ficheros, 3,5K en 0,001s (5,87 MB/s)
